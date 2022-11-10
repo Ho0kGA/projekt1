@@ -1,0 +1,1 @@
+jmena = ["Mat", "Jan", "Olek"]
