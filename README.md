@@ -1,2 +1,6 @@
 # projekt1
-pokus o první projekt v jazyce Python
+## 1. O čem je tento projekt 
+uplně o ničem 
+## 2. jak to pojebat
+zeptej se dál 
+nedávám to tu 
